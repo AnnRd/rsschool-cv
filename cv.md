@@ -1,40 +1,40 @@
 # Curriculum vitae
-***Junior FRONT-END Developer***
-___
-![my photo](cvphoto.jpg)
-###1. Personal information
-**Name:** Radchenko Anna
-**All about me:** 
-I have a bachelor's degree in Linguistics, know two foreign languages: English (C1) and Chinese (HSK4). Now I have a goal to become a Software developer in JavaScript, because I've always had an affection for IT and now I'm sure that I'm ready for that. My first education will definitely help me to get new knowledge in JS.
-**Personal features:** 
-I am responsible, punctual, friendly, I have an ability to multitask and flexibility of thinking.
+***Junior FRONT-END Developer*** <br/>
+***
+![my photo](cvphoto.jpg) <br/>
+###1. Personal information <br/>
+**Name:** Radchenko Anna <br/>
+**All about me:** <br/>
+I have a bachelor's degree in Linguistics, know two foreign languages: English (C1) and Chinese (HSK4). Now I have a goal to become a Software developer in JavaScript, because I've always had an affection for IT and now I'm sure that I'm ready for that. My first education will definitely help me to get new knowledge in JS. <br/>
+**Personal features:** <br/>
+I am responsible, punctual, friendly, I have an ability to multitask and flexibility of thinking.<br/>
 **Core skills:**
 * HTML 
 * CSS
 * Markdown syntax
 * Git & GitHub
 * JavaScript
-* English language (C1)
+* English language (C1) <br/>
 ###2. Education background
-**Far Eastern Federal University**
-  *Institute of Oriental Studies - School of Regional and International Studies, faculty of Intercultural Communication in Asia-Pacific Countries.*
-* Bachelor of Linguistics, 2020
+**Far Eastern Federal University** <br/>
+  *Institute of Oriental Studies - School of Regional and International Studies, faculty of Intercultural Communication in Asia-Pacific Countries.* <br/>
+* Bachelor of Linguistics, 2020 <br/>
 
-**Harbin Institution of Technology**
- *College of International Education, Course of Chinese language study.*
-* Completed language course, 2017
-###3. Certificates
+**Harbin Institution of Technology** <br/>
+ *College of International Education, Course of Chinese language study.* <br/>
+* Completed language course, 2017 <br/>
+###3. Certificates <br/>
 * EF Standart English Test - C1 Advanced
 * HSK (Chinese Proficiency Test) - 4 Level
 * London Teacher Training College - Diploma in TESOL
 * National Research University HSE - completed Culturology course
-* Diploma in Chinese language study course (HIT)
-###4. Work experience
+* Diploma in Chinese language study course (HIT) <br/>
+###4. Work experience <br/>
 **The Rolling Scopes School** - student
 I am Junior Developer, so now I'm styding at the RSSchool, JS / FRONT-END course.
-Here let me show you the extract from the HTML code, it was part of my self-studied project, I've created a small questionnaire:
-```
-//</head>
+Here let me show you the extract from the HTML code, it was part of my self-studied project, I've created a small questionnaire: <br/>
+```html
+</head>
 <body>
 
   <form action="#">
@@ -88,8 +88,9 @@ Here let me show you the extract from the HTML code, it was part of my self-stud
   <input type="file" name="userphoto">
 </div>
 ```
-###5. Contact info
-**Mobile:** 89242464685
-**Email:** anrd.rs@mail.ru
-**City:** Saint-Petersburg
+<br/>
+###5. Contact info <br/>
+**Mobile:** 89242464685 <br/>
+**Email:** anrd.rs@mail.ru<br/>
+**City:** Saint-Petersburg<br/>
 
