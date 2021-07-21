@@ -1,5 +1,7 @@
 # Curriculum vitae
+***Junior FRONT-END Developer***
 ___
+![my photo](cvphoto.jpg)
 ###1. Personal information
 **Name:** Radchenko Anna
 **All about me:** 
