@@ -34,7 +34,7 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 I am Junior Developer, so now I'm styding at the RSSchool, JS / FRONT-END course.
 Here let me show you the extract from the HTML code, it was part of my self-studied project, I've created a small questionnaire:
 ```
-</head>
+//</head>
 <body>
 
   <form action="#">
