@@ -33,11 +33,9 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 **The Rolling Scopes School** - student
 I am Junior Developer, so now I'm styding at the RSSchool, JS / FRONT-END course.
 Here let me show you the extract from the HTML code, it was part of my self-studied project, I've created a small questionnaire: <br/>
-```html
 </head>
 <body>
-
-  <form action="#">
+ ```<form action="#">
   <div>
     <p>
       Имя
@@ -87,8 +85,8 @@ Here let me show you the extract from the HTML code, it was part of my self-stud
   </p>
   <input type="file" name="userphoto">
 </div>
-```
-<br/>
+<br/>```
+
 ###5. Contact info <br/>
 **Mobile:** 89242464685 <br/>
 **Email:** anrd.rs@mail.ru<br/>
