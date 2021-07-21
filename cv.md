@@ -32,6 +32,62 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 ###4. Work experience
 **The Rolling Scopes School** - student
 I am Junior Developer, so now I'm styding at the RSSchool, JS / FRONT-END course.
+Here let me show you the extract from the HTML code, it was part of my self-studied project, I've created a small questionnaire:
+```
+</head>
+<body>
+
+  <form action="#">
+  <div>
+    <p>
+      Имя
+    </p>
+    <input type="text" name="username">
+  </div>
+
+  <div>
+    <p>
+      Пароль
+    </p>
+    <input type="password" name="password">
+  </div>
+
+  <div>
+    <p>
+      Телефон
+    </p>
+    <input type="tel" name="number">
+  </div>
+
+  <div>
+    <p>
+      Пол
+    </p>
+      <p> <input checked type="radio" name="Sex" value="Male"> Мужской</p>
+      <p> <input  type="radio" name="Sex" value="Female"> Женский</p>
+  </div>
+
+  <div>
+    <p>
+     Имущество
+    </p>
+      <p> <input checked type="checkbox" name="Personal" value="Things"> Велик</p>
+      <p> <input  type="checkbox" name="Personal" value="Things"> Машина</p>
+      <p> <input  type="checkbox" name="Personal" value="Things"> Квартира</p>
+  </div>
+
+<div>
+  <p>Дополнительная информация</p>
+  <textarea name="text" id="" cols="23" rows="5"></textarea>
+</div>
+
+<div>
+  <p>
+    Прикрепить фото
+  </p>
+  <input type="file" name="userphoto">
+</div>
+```
 ###5. Contact info
 **Mobile:** 89242464685
 **Email:** anrd.rs@mail.ru
