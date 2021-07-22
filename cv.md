@@ -14,7 +14,8 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 * Git & GitHub
 * JavaScript
 * English language (C1) <br/>
-### 2. Education background
+
+### 2. Education background <br/>
 **Far Eastern Federal University** <br/>
   *Institute of Oriental Studies - School of Regional and International Studies, faculty of Intercultural Communication in Asia-Pacific Countries.* <br/>
 * Bachelor of Linguistics, 2020 <br/>
@@ -22,12 +23,14 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 **Harbin Institution of Technology** <br/>
  *College of International Education, Course of Chinese language study.* <br/>
 * Completed language course, 2017 <br/>
+
 ### 3. Certificates <br/>
 * EF Standart English Test - C1 Advanced
 * HSK (Chinese Proficiency Test) - 4 Level
 * London Teacher Training College - Diploma in TESOL
 * National Research University HSE - completed Culturology course
 * Diploma in Chinese language study course (HIT) <br/>
+
 ### 4. Work experience <br/>
 **The Rolling Scopes School** - student
 I am Junior Developer, so now I'm styding at the RSSchool, JS / FRONT-END course.
