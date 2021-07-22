@@ -13,7 +13,7 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 * Markdown syntax
 * Git & GitHub
 * JavaScript
-* English language (C1) <br/>
+* English language (C1)
 
 ### 2. Education background <br/>
 **Far Eastern Federal University** <br/>
@@ -22,14 +22,14 @@ I am responsible, punctual, friendly, I have an ability to multitask and flexibi
 
 **Harbin Institution of Technology** <br/>
  *College of International Education, Course of Chinese language study.* <br/>
-* Completed language course, 2017 <br/>
+* Completed language course, 2017
 
 ### 3. Certificates <br/>
 * EF Standart English Test - C1 Advanced
 * HSK (Chinese Proficiency Test) - 4 Level
 * London Teacher Training College - Diploma in TESOL
 * National Research University HSE - completed Culturology course
-* Diploma in Chinese language study course (HIT) <br/>
+* Diploma in Chinese language study course (HIT)
 
 ### 4. Work experience <br/>
 **The Rolling Scopes School** - student
