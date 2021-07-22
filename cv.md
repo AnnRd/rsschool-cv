@@ -96,7 +96,6 @@ Here let me show you the extract from the HTML code, it was part of my self-stud
 </div> 
 ``` 
 <br/>
-
 ### 5. Contact info <br/>
 **Mobile**: 89242464685 <br/>
 **Email**: anrd.rs@mail.ru<br/>
