@@ -29,3 +29,66 @@ body{
   height: 100%;
   background-color: #f7f7f7;
 }
+
+.left{
+  padding: 1rem 2rem;
+}
+
+.profile{
+  width: 100%;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.profile img{
+  width: 95%;
+  border-radius: 50%;
+  border: 8px solid #011b27;
+}
+
+.name{
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0.5rem 0;
+}
+
+.job{
+  font-size: 1.2rem;
+  color: lightsteelblue;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 1rem 0;
+}
+
+.about-me-title{
+font-size: 1.1rem;
+color:rgb(131, 160, 199);
+padding: 0.5rem 0;
+}
+
+.about-me{
+font-size: 1rem;
+text-align: justify;
+color: rgb(226, 226, 245);
+}
+
+.contact-title{
+font-size: 1.1rem;
+color:rgb(131, 160, 199);
+padding: 0.5rem 0;
+}
+
+.contact-info ul li{
+  font-size: 1rem;
+  text-align: justify;
+  color: rgb(226, 226, 245);
+  display: flex;
+  align-items: center;
+}
+
+.contact-info ul li i{
+  padding-right: 1rem;
+  font-size: 1.2rem;
+  color: lightskyblue;
+}
