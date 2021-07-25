@@ -1,0 +1,190 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: "Nunito", sans-serif;;
+}
+
+body{
+  background-color: lightskyblue;
+}
+
+.main-content{
+  min-height: 100vh;
+  width: 80%;
+  margin: 2rem auto;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.left-section{
+  grid-column: span 2;
+  height: 100%;
+  background-color: #00324a;
+}
+
+.right-section{
+  grid-column: span 5;
+  height: 100%;
+  background-color: #f7f7f7;
+}
+
+.left{
+  padding: 1rem 2rem;
+}
+
+.profile{
+  width: 100%;
+  border-bottom: 1px solid #f7f7f7;
+}
+
+.profile img{
+  width: 95%;
+  border-radius: 50%;
+  border: 8px solid #011b27;
+}
+
+.name{
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0.5rem 0;
+}
+
+.job{
+  font-size: 1.2rem;
+  color: lightsteelblue;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 1rem 0;
+}
+
+.about-me-title{
+color:rgb(131, 160, 199);
+padding: 0.5rem 0;
+}
+
+.about-me{
+font-size: 1rem;
+text-align: justify;
+color: rgb(226, 226, 245);
+  margin-bottom: 1.2rem;
+}
+
+.contact-title{
+color:rgb(131, 160, 199);
+padding: 0.5rem 0;
+}
+
+.contact-info ul li{
+  font-size: 1rem;
+  text-align: justify;
+  color: rgb(226, 226, 245);
+  display: flex;
+  align-items: center;
+}
+
+.contact-info ul li i{
+  padding-right: 1rem;
+  font-size: 1.2rem;
+  color: lightskyblue;
+}
+
+.personal-features-title{
+  color:rgb(131, 160, 199);
+  padding: 0.5rem 0; 
+}
+
+.personal-features{
+  font-size: 1rem;
+text-align: justify;
+color: rgb(226, 226, 245);
+}
+
+.right-title{
+  letter-spacing: 1px;
+  color: #2d79dd;
+  margin-bottom: 1.2rem;
+  position: relative;
+}
+
+.right-title::after{
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: .2rem;
+  background-color: #2D9CDB;
+  border-radius: 10px;
+  right: 0;
+  top: 50%;
+  transform: : translateY(-50%);
+}
+
+.right-main-content{
+  padding: 1rem 2rem;
+}
+
+.university{
+  color: #33496d;
+  text-transform: uppercase;
+ 
+  text-align: justify;
+}
+
+.university-name{
+  color: #687994;
+  text-transform: uppercase;
+  padding-bottom: 2rem;
+  text-align: justify;
+}
+
+.degree{
+  color: #33496d;
+  padding-bottom: 2rem;
+  text-align: justify;
+  font-size: 1rem;
+}
+
+.core-skills ul li{
+  color: #33496d;
+  letter-spacing: 1px;
+  font-size: 1rem;
+}
+
+.right-title-cert{
+  letter-spacing: 1px;
+  color: #2d79dd;
+  margin-top: 2rem;
+  position: relative;
+  margin-bottom: 1.2rem;
+}
+
+.right-title-cert::after{
+  content: "";
+  position: absolute;
+  width: 50%;
+  height: .2rem;
+  background-color: #2D9CDB;
+  border-radius: 10px;
+  right: 0;
+  top: 50%;
+  transform: : translateY(-50%);
+}
+
+.certificates ul li{
+  color: #33496d;
+  letter-spacing: 1px;
+  font-size: 1rem;
+}
+
+.certificates{
+  margin-bottom: 1.2rem;
+}
+
+.add-info{
+  color: #33496d;
+  letter-spacing: 1px;
+  font-size: 1rem;
+}
